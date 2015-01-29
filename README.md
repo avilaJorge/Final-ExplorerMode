@@ -31,8 +31,7 @@ residents. When all residents are happy or indifferent the user can no longer in
 the grid.
 
 
-Extra credit: Pressing ‘r’ reloads the grid in a new configuration. This is not easy! Your
-understanding of memory management will need to be perfect.
+Extra credit: Pressing ‘r’ reloads the grid in a new configuration. This is not easy! Your understanding of memory management will need to be perfect.
 ======
 
 #### Please see Final exam score.txt for final score
