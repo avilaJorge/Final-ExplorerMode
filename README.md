@@ -3,7 +3,9 @@
 #### These are the instructions Professor Arenas provided:
 
 ####  Exam Part 1: The Exploration Tool
-*In this part of the exam you will create a tool where users can explore the effect of bias
+
+======
+In this part of the exam you will create a tool where users can explore the effect of bias
 on housing patterns. You may model this portion after “Exploration mode.exe” (make
 sure all bitmap files are in the same directory as the executable before you test it).
 
@@ -30,7 +32,7 @@ the grid.
 
 
 Extra credit: Pressing ‘r’ reloads the grid in a new configuration. This is not easy! Your
-understanding of memory management will need to be perfect.*
-
+understanding of memory management will need to be perfect.
+======
 
 #### Please see Final exam score.txt for final score
