@@ -30,8 +30,8 @@ The program must report the level of segregation in real-time as the user moves 
 residents. When all residents are happy or indifferent the user can no longer interact with
 the grid.
 
-
 Extra credit: Pressing ‘r’ reloads the grid in a new configuration. This is not easy! Your understanding of memory management will need to be perfect.
+
 ======
 
 #### Please see Final exam score.txt for final score
