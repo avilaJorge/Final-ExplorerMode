@@ -34,4 +34,4 @@ Extra credit: Pressing ‘r’ reloads the grid in a new configuration. This is 
 
 ======
 
-#### Please see Final exam score.txt for final score
+#### Please see FinalExamScore.txt for final score
